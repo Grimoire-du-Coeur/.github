@@ -1,0 +1,170 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/banner.svg" width="100%" alt="Persona : Le Grimoire du Cœur">
+
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/quote.svg" width="100%" alt="Je suis toi… tu es moi…">
+
+[![Discord](https://img.shields.io/discord/1400909421609095323?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=CE1126&labelColor=0D0D0D)](https://discord.gg/personafr)
+[![Site](https://img.shields.io/badge/site-personalegrimoireducoeur.fr-002654?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D0D0D)](https://personalegrimoireducoeur.fr/)
+[![MangaDex](https://img.shields.io/badge/MangaDex-nos%20scans-F5F5F5?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0D0D0D)](https://mangadex.org/group/53746fc9-61ed-40d0-a7a9-4e853fe65eba/persona-le-grimoire-du-c-ur?tab=info)
+[![Catalogue](https://img.shields.io/badge/catalogue-53%20%C5%93uvres%20FR-CE1126?style=for-the-badge&labelColor=0D0D0D)](https://personalegrimoireducoeur.fr/#universo)
+
+### La communauté francophone autour de **Persona**, **Shin Megami Tensei** et de tout l'univers **Atlus**.
+
+On traduit des jeux et des mangas, on développe nos propres projets,<br>
+on archive tout ce qui existe en français, et on en discute tous les jours.
+
+<br>
+
+[**🎮 Ce qu'on fait**](#ce-quon-fait) &nbsp;·&nbsp;
+[**📦 Les projets**](#les-projets) &nbsp;·&nbsp;
+[**👥 L'équipe**](#lequipe) &nbsp;·&nbsp;
+[**🤝 Nous rejoindre**](#nous-rejoindre) &nbsp;·&nbsp;
+[**🌐 Le site**](https://personalegrimoireducoeur.fr/)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/divider.svg" width="100%" alt="">
+
+<a name="ce-quon-fait"></a>
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/s01.svg" width="100%" alt="01 — Ce qu'on fait">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 On traduit des jeux
+
+Des titres Atlus jamais sortis en français, patchés **du script à l'EBOOT**, en passant par les textures et les images.
+
+*Persona 1 · Persona 2: Innocent Sin · Jack Bros. · SMT Synchronicity*
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 On traduit des mangas
+
+Scantrad des séries Persona qui n'ont pas d'édition française, publiée sur **MangaDex**.
+
+*[Notre groupe →](https://mangadex.org/group/53746fc9-61ed-40d0-a7a9-4e853fe65eba/persona-le-grimoire-du-c-ur?tab=info)*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕹️ On crée nos propres jeux
+
+Des jeux originaux pensés pour la communauté, jouables directement dans le navigateur.
+
+*Wolfsona — un Loup-Garou où chaque rôle est un Arcane Majeur*
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 On outille et on archive
+
+Un portail qui recense **toutes** les œuvres Atlus disponibles en français, un patcher web, des outils de relecture.
+
+*[Universo Atlus FR →](https://personalegrimoireducoeur.fr/#universo)*
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/divider.svg" width="100%" alt="">
+
+<a name="les-projets"></a>
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/s02.svg" width="100%" alt="02 — Les projets">
+
+### 🎮 Traductions de jeux
+
+| Projet | Plateforme | État | |
+|---|---|---|---|
+| **[Persona 2: Innocent Sin](https://github.com/chenetulipe/P2-FR-IS-PSP)** <br> <sub>Traduction intégrale + pack de textures HD</sub> | PSP | 🟢 Jouable | [![](https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/P2-FR-IS-PSP) |
+| **[Shin Megami Tensei: Persona](https://github.com/Grimoire-du-Coeur/P1-FR-PSP)** <br> <sub>Le tout premier Persona, jamais sorti en français</sub> | PSP | 🟠 En cours | [![](https://img.shields.io/github/stars/Grimoire-du-Coeur/P1-FR-PSP?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/P1-FR-PSP) |
+| **[Jack Bros.](https://github.com/chenetulipe/JackBros-FR-VB)** <br> <sub>Traduction intégrale v1.0 + patcher web</sub> | Virtual Boy | 🟢 Terminé | [![](https://img.shields.io/github/stars/chenetulipe/JackBros-FR-VB?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/JackBros-FR-VB) |
+| **[SMT: Synchronicity Prologue](https://github.com/gc-ultimate117/SMT-Synchronicity-FR-PC)** <br> <sub>Le prologue de Strange Journey, en français</sub> | PC | 🟢 Jouable | [![](https://img.shields.io/github/stars/gc-ultimate117/SMT-Synchronicity-FR-PC?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/gc-ultimate117/SMT-Synchronicity-FR-PC) |
+
+### 🕹️ Créations originales
+
+| Projet | Quoi | |
+|---|---|---|
+| **[Wolfsona](https://github.com/Grimoire-du-Coeur/wolfsona)** <br> <sub>Loup-Garou en temps réel, chaque rôle est un Arcane Majeur.<br>Serveur autoritaire, sans inscription.</sub> | TypeScript | [![](https://img.shields.io/github/stars/Grimoire-du-Coeur/wolfsona?style=flat-square&color=002654&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/wolfsona) |
+
+### 🧰 Outils & archives
+
+| Projet | Quoi | |
+|---|---|---|
+| **[p1-relecture](https://github.com/Grimoire-du-Coeur/p1-relecture)** <br> <sub>Relecture en ligne de la traduction de Persona 1, avec vérification automatique des contraintes du jeu</sub> | Outil web | [![](https://img.shields.io/github/stars/Grimoire-du-Coeur/p1-relecture?style=flat-square&color=002654&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/p1-relecture) |
+| **[Web Patcher universel](https://personalegrimoireducoeur.fr/patcher/)** <br> <sub>Applique un patch `.xdelta` ou `.ips` directement dans le navigateur — rien n'est envoyé sur un serveur</sub> | WebAssembly | [🌐](https://personalegrimoireducoeur.fr/patcher/) |
+| **[megaten-traductions-francaises](https://github.com/chenetulipe/megaten-traductions-francaises)** <br> <sub>Le répertoire centralisé des fan-trads FR de toute la franchise Megami Tensei</sub> | Archive | [![](https://img.shields.io/github/stars/chenetulipe/megaten-traductions-francaises?style=flat-square&color=002654&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/megaten-traductions-francaises) |
+
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/divider.svg" width="100%" alt="">
+
+<a name="lequipe"></a>
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/s03.svg" width="100%" alt="03 — L'équipe">
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/vikmorp"><img src="https://avatars.githubusercontent.com/u/229364565?v=4" width="120" alt="Vikmor"></a><br>
+<b>Vikmor</b><br>
+<sub>🃏 Fondateur</sub><br>
+<sub><a href="https://github.com/vikmorp">@vikmorp</a></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/chenetulipe"><img src="https://avatars.githubusercontent.com/u/121494822?v=4" width="120" alt="chenetulipe"></a><br>
+<b>chene</b><br>
+<sub>🛠️ Traduction & outils</sub><br>
+<sub><a href="https://github.com/chenetulipe">@chenetulipe</a></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/CodeByHaamza"><img src="https://avatars.githubusercontent.com/u/208399741?v=4" width="120" alt="Hamza"></a><br>
+<b>Hamza</b><br>
+<sub>⚙️ Traduction & dev</sub><br>
+<sub><a href="https://github.com/CodeByHaamza">@CodeByHaamza</a></sub>
+</td>
+</tr>
+</table>
+
+<sub>…et tous les relecteurs, testeurs et contributeurs du Discord, sans qui rien ne sortirait.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/divider.svg" width="100%" alt="">
+
+<a name="nous-rejoindre"></a>
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/s04.svg" width="100%" alt="04 — Nous rejoindre">
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/logo.png" width="120" alt="Le Grimoire du Cœur">
+
+**Pas besoin de savoir coder.** On a besoin de relecteurs, de testeurs, de traducteurs,<br>
+de gens qui savent manier Photoshop — et de gens qui veulent juste parler de Persona.
+
+<br>
+
+[![Rejoindre le Discord](https://img.shields.io/badge/Rejoindre%20le%20Discord-%E2%86%92-CE1126?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D)](https://discord.gg/personafr)
+[![Voir le site](https://img.shields.io/badge/Voir%20le%20site-%E2%86%92-002654?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D0D0D)](https://personalegrimoireducoeur.fr/)
+[![Lire nos scans](https://img.shields.io/badge/Lire%20nos%20scans-%E2%86%92-F5F5F5?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0D0D0D)](https://mangadex.org/group/53746fc9-61ed-40d0-a7a9-4e853fe65eba/persona-le-grimoire-du-c-ur?tab=info)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/divider.svg" width="100%" alt="">
+
+<div align="center">
+
+<sub>
+Projet de fans, <b>bénévole et non lucratif</b>. Persona, Shin Megami Tensei et l'ensemble des œuvres citées<br>
+sont la propriété d'<b>ATLUS</b> et de <b>SEGA</b>. Aucun jeu n'est distribué ici : nos patchs s'appliquent<br>
+sur une copie que vous possédez déjà légalement.
+</sub>
+
+<br><br>
+
+<sub><i>« Le contrat a été scellé. »</i></sub>
+
+</div>
