@@ -22,7 +22,7 @@ on archive tout ce qui existe en français, et on en discute tous les jours.
 [**📦 Les projets**](#les-projets) &nbsp;·&nbsp;
 [**👥 L'équipe**](#lequipe) &nbsp;·&nbsp;
 [**🤝 Nous rejoindre**](#nous-rejoindre) &nbsp;·&nbsp;
-[**🌐 Le site**](https://personalegrimoireducoeur.fr/)
+[**🔗 Où nous trouver**](#ou-nous-trouver)
 
 </div>
 
@@ -83,7 +83,7 @@ Un portail qui recense **toutes** les œuvres Atlus disponibles en français, un
 
 | Projet | Plateforme | État | |
 |---|---|---|---|
-| 🃏 **[Shin Megami Tensei: Persona](https://github.com/Grimoire-du-Coeur/P1-FR-PSP)** <br> <sub>**Le tout premier Persona**, jamais sorti en français.<br>Script, EBOOT, images, textures — et le manga qui va avec.</sub> | PSP | 🟠 En cours | [![Étoiles de P1-FR-PSP](https://img.shields.io/github/stars/Grimoire-du-Coeur/P1-FR-PSP?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/P1-FR-PSP) |
+| 🃏 **[Shin Megami Tensei: Persona](https://github.com/Grimoire-du-Coeur/P1-FR-PSP)** <br> <sub>**Le tout premier Persona**, jamais sorti en français.<br>Script, EBOOT, images et textures.</sub> | PSP | 🟠 En cours | [![Étoiles de P1-FR-PSP](https://img.shields.io/github/stars/Grimoire-du-Coeur/P1-FR-PSP?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/P1-FR-PSP) |
 | **[Persona 2: Innocent Sin](https://github.com/chenetulipe/P2-FR-IS-PSP)** <br> <sub>Traduction intégrale + pack de textures HD</sub> | PSP | 🟢 Jouable | [![Étoiles de P2-FR-IS-PSP](https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/P2-FR-IS-PSP) |
 | **[Jack Bros.](https://github.com/chenetulipe/JackBros-FR-VB)** <br> <sub>Traduction intégrale v1.0 + patcher web</sub> | Virtual Boy | 🟢 Terminé | [![Étoiles de JackBros-FR-VB](https://img.shields.io/github/stars/chenetulipe/JackBros-FR-VB?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/JackBros-FR-VB) |
 | **[SMT: Synchronicity Prologue](https://github.com/gc-ultimate117/SMT-Synchronicity-FR-PC)** <br> <sub>Le prologue de Strange Journey, en français</sub> | PC | 🟢 Jouable | [![Étoiles de SMT-Synchronicity-FR-PC](https://img.shields.io/github/stars/gc-ultimate117/SMT-Synchronicity-FR-PC?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/gc-ultimate117/SMT-Synchronicity-FR-PC) |
@@ -133,12 +133,32 @@ Un portail qui recense **toutes** les œuvres Atlus disponibles en français, un
 **Pas besoin de savoir coder.** On a besoin de relecteurs, de testeurs, de traducteurs,<br>
 de gens qui savent manier Photoshop — et de gens qui veulent juste parler de Persona.
 
-<br>
+</div>
 
-[![Rejoindre le Discord](https://img.shields.io/badge/Rejoindre%20le%20Discord-%E2%86%92-CE1126?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D)](https://discord.gg/personafr)
-[![Voir le site](https://img.shields.io/badge/Voir%20le%20site-%E2%86%92-002654?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D0D0D)](https://personalegrimoireducoeur.fr/)
-[![Lire nos scans](https://img.shields.io/badge/Lire%20nos%20scans-%E2%86%92-F5F5F5?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0D0D0D)](https://mangadex.org/group/53746fc9-61ed-40d0-a7a9-4e853fe65eba/persona-le-grimoire-du-c-ur?tab=info)
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/divider.svg" width="100%" alt="">
 
+<a name="ou-nous-trouver"></a>
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/s05.svg" width="100%" alt="05 — Où nous trouver">
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://discord.gg/personafr"><img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/link_discord.svg" width="310" alt="Discord — 2 800+ membres"></a>
+</td>
+<td align="center" width="50%">
+<a href="https://personalegrimoireducoeur.fr/"><img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/link_site.svg" width="310" alt="Le site — personalegrimoireducoeur.fr"></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://mangadex.org/group/53746fc9-61ed-40d0-a7a9-4e853fe65eba/persona-le-grimoire-du-c-ur?tab=info"><img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/link_mangadex.svg" width="310" alt="MangaDex — nos scantrads Persona"></a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Grimoire-du-Coeur"><img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/link_github.svg" width="310" alt="GitHub — tout le code, ouvert"></a>
+</td>
+</tr>
+</table>
 </div>
 
 <img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/divider.svg" width="100%" alt="">
