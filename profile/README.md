@@ -14,6 +14,8 @@
 On traduit des jeux et des mangas, on développe nos propres projets,<br>
 on archive tout ce qui existe en français, et on en discute tous les jours.
 
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/stats.svg" width="100%" alt="2 800+ membres · 53 œuvres au catalogue · 4 projets de traduction · 100 % bénévole">
+
 <br>
 
 [**🎮 Ce qu'on fait**](#ce-quon-fait) &nbsp;·&nbsp;
@@ -81,24 +83,24 @@ Un portail qui recense **toutes** les œuvres Atlus disponibles en français, un
 
 | Projet | Plateforme | État | |
 |---|---|---|---|
-| **[Persona 2: Innocent Sin](https://github.com/chenetulipe/P2-FR-IS-PSP)** <br> <sub>Traduction intégrale + pack de textures HD</sub> | PSP | 🟢 Jouable | [![](https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/P2-FR-IS-PSP) |
-| **[Shin Megami Tensei: Persona](https://github.com/Grimoire-du-Coeur/P1-FR-PSP)** <br> <sub>Le tout premier Persona, jamais sorti en français</sub> | PSP | 🟠 En cours | [![](https://img.shields.io/github/stars/Grimoire-du-Coeur/P1-FR-PSP?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/P1-FR-PSP) |
-| **[Jack Bros.](https://github.com/chenetulipe/JackBros-FR-VB)** <br> <sub>Traduction intégrale v1.0 + patcher web</sub> | Virtual Boy | 🟢 Terminé | [![](https://img.shields.io/github/stars/chenetulipe/JackBros-FR-VB?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/JackBros-FR-VB) |
-| **[SMT: Synchronicity Prologue](https://github.com/gc-ultimate117/SMT-Synchronicity-FR-PC)** <br> <sub>Le prologue de Strange Journey, en français</sub> | PC | 🟢 Jouable | [![](https://img.shields.io/github/stars/gc-ultimate117/SMT-Synchronicity-FR-PC?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/gc-ultimate117/SMT-Synchronicity-FR-PC) |
+| 🃏 **[Shin Megami Tensei: Persona](https://github.com/Grimoire-du-Coeur/P1-FR-PSP)** <br> <sub>**Le tout premier Persona**, jamais sorti en français.<br>Script, EBOOT, images, textures — et le manga qui va avec.</sub> | PSP | 🟠 En cours | [![Étoiles de P1-FR-PSP](https://img.shields.io/github/stars/Grimoire-du-Coeur/P1-FR-PSP?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/P1-FR-PSP) |
+| **[Persona 2: Innocent Sin](https://github.com/chenetulipe/P2-FR-IS-PSP)** <br> <sub>Traduction intégrale + pack de textures HD</sub> | PSP | 🟢 Jouable | [![Étoiles de P2-FR-IS-PSP](https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/P2-FR-IS-PSP) |
+| **[Jack Bros.](https://github.com/chenetulipe/JackBros-FR-VB)** <br> <sub>Traduction intégrale v1.0 + patcher web</sub> | Virtual Boy | 🟢 Terminé | [![Étoiles de JackBros-FR-VB](https://img.shields.io/github/stars/chenetulipe/JackBros-FR-VB?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/JackBros-FR-VB) |
+| **[SMT: Synchronicity Prologue](https://github.com/gc-ultimate117/SMT-Synchronicity-FR-PC)** <br> <sub>Le prologue de Strange Journey, en français</sub> | PC | 🟢 Jouable | [![Étoiles de SMT-Synchronicity-FR-PC](https://img.shields.io/github/stars/gc-ultimate117/SMT-Synchronicity-FR-PC?style=flat-square&color=CE1126&labelColor=0D0D0D&logo=github)](https://github.com/gc-ultimate117/SMT-Synchronicity-FR-PC) |
 
 ### 🕹️ Créations originales
 
 | Projet | Quoi | |
 |---|---|---|
-| **[Wolfsona](https://github.com/Grimoire-du-Coeur/wolfsona)** <br> <sub>Loup-Garou en temps réel, chaque rôle est un Arcane Majeur.<br>Serveur autoritaire, sans inscription.</sub> | TypeScript | [![](https://img.shields.io/github/stars/Grimoire-du-Coeur/wolfsona?style=flat-square&color=002654&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/wolfsona) |
+| **[Wolfsona](https://github.com/Grimoire-du-Coeur/wolfsona)** <br> <sub>Loup-Garou en temps réel, chaque rôle est un Arcane Majeur.<br>Serveur autoritaire, sans inscription.</sub> | TypeScript | [![Étoiles de wolfsona](https://img.shields.io/github/stars/Grimoire-du-Coeur/wolfsona?style=flat-square&color=002654&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/wolfsona) |
 
 ### 🧰 Outils & archives
 
 | Projet | Quoi | |
 |---|---|---|
-| **[p1-relecture](https://github.com/Grimoire-du-Coeur/p1-relecture)** <br> <sub>Relecture en ligne de la traduction de Persona 1, avec vérification automatique des contraintes du jeu</sub> | Outil web | [![](https://img.shields.io/github/stars/Grimoire-du-Coeur/p1-relecture?style=flat-square&color=002654&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/p1-relecture) |
+| **[p1-relecture](https://github.com/Grimoire-du-Coeur/p1-relecture)** <br> <sub>Relecture en ligne de la traduction de Persona 1, avec vérification automatique des contraintes du jeu</sub> | Outil web | [![Étoiles de p1-relecture](https://img.shields.io/github/stars/Grimoire-du-Coeur/p1-relecture?style=flat-square&color=002654&labelColor=0D0D0D&logo=github)](https://github.com/Grimoire-du-Coeur/p1-relecture) |
 | **[Web Patcher universel](https://personalegrimoireducoeur.fr/patcher/)** <br> <sub>Applique un patch `.xdelta` ou `.ips` directement dans le navigateur — rien n'est envoyé sur un serveur</sub> | WebAssembly | [🌐](https://personalegrimoireducoeur.fr/patcher/) |
-| **[megaten-traductions-francaises](https://github.com/chenetulipe/megaten-traductions-francaises)** <br> <sub>Le répertoire centralisé des fan-trads FR de toute la franchise Megami Tensei</sub> | Archive | [![](https://img.shields.io/github/stars/chenetulipe/megaten-traductions-francaises?style=flat-square&color=002654&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/megaten-traductions-francaises) |
+| **[megaten-traductions-francaises](https://github.com/chenetulipe/megaten-traductions-francaises)** <br> <sub>Le répertoire centralisé des fan-trads FR de toute la franchise Megami Tensei</sub> | Archive | [![Étoiles de megaten-traductions-francaises](https://img.shields.io/github/stars/chenetulipe/megaten-traductions-francaises?style=flat-square&color=002654&labelColor=0D0D0D&logo=github)](https://github.com/chenetulipe/megaten-traductions-francaises) |
 
 <img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/divider.svg" width="100%" alt="">
 
@@ -106,28 +108,14 @@ Un portail qui recense **toutes** les œuvres Atlus disponibles en français, un
 <img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/s03.svg" width="100%" alt="03 — L'équipe">
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/vikmorp"><img src="https://avatars.githubusercontent.com/u/229364565?v=4" width="120" alt="Vikmor"></a><br>
-<b>Vikmor</b><br>
-<sub>🃏 Fondateur</sub><br>
-<sub><a href="https://github.com/vikmorp">@vikmorp</a></sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/chenetulipe"><img src="https://avatars.githubusercontent.com/u/121494822?v=4" width="120" alt="chenetulipe"></a><br>
-<b>chene</b><br>
-<sub>🛠️ Traduction & outils</sub><br>
-<sub><a href="https://github.com/chenetulipe">@chenetulipe</a></sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/CodeByHaamza"><img src="https://avatars.githubusercontent.com/u/208399741?v=4" width="120" alt="Hamza"></a><br>
-<b>Hamza</b><br>
-<sub>⚙️ Traduction & dev</sub><br>
-<sub><a href="https://github.com/CodeByHaamza">@CodeByHaamza</a></sub>
-</td>
-</tr>
-</table>
+
+<img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/.github/main/profile/assets/team.svg" width="100%" alt="Hamza — Traduction & dev · Vikmor — Fondateur · chene — Traduction & outils">
+
+[**@CodeByHaamza**](https://github.com/CodeByHaamza) &nbsp;·&nbsp;
+[**@vikmorp**](https://github.com/vikmorp) &nbsp;·&nbsp;
+[**@chenetulipe**](https://github.com/chenetulipe)
+
+<br>
 
 <sub>…et tous les relecteurs, testeurs et contributeurs du Discord, sans qui rien ne sortirait.</sub>
 
